@@ -6,7 +6,7 @@ The code is implemented on an IPython Notebook with the necessary code required 
 
 The paper can be accessed from [here.](https://reader.elsevier.com/reader/sd/pii/S003132031630125X?token=3660BF88E5B10F810C0E93B39AEEA5E8B4C0D66E6654F28D92A6A53A8751EF2F9B8518E956192B9CBCC3B80066280200)
 
-Training Results
+## Training Results
 
 Dark Patch:
 
@@ -20,7 +20,7 @@ Enhanced Patch:
 
 ![alt text](https://github.com/joeljosephjin/llnet_implementation/blob/master/Examples/Y_predict.png "Logo Title Text 1")
 
-Test Results
+## Test Results
 
 Low-Light Input Image:
 
